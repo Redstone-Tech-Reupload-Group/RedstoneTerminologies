@@ -1,0 +1,2 @@
+,Word,Translation,Description,Example,Tag
+0,update suppression,更新抑制,通过使得游戏发生堆栈溢出异常来进行一些游戏操作的手段,详见：https://www.bilibili.com/video/BV1tg4y1w7J5,游戏机制
